@@ -1,6 +1,7 @@
 public class Day2 {
     public static void main(String[] args) {
         int a = 19;
+        int t =10;
         char c = 'v';
         System.out.println(a);
         System.out.print(c);
