@@ -23,4 +23,4 @@ print('sai', 'gfg',sep='@')
 
 name = "sai"
 age = 24
-print(f"helllo my name is {name} and age is {age} ")
+print(f"hello my name is {name} and age is {age} ")
